@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Achievements"
@@ -25,3 +24,10 @@ Secured a good position in the PanIIT Hackathon held at IIT Delhi.
 ## 2018
 - <span style="color:gray"><b><font size=4> <u> Runner-Up: Tinkerer’s Lab Competition on AI</u></font></b></span> <br/>
 Secured second position in the Tinkerer’s Lab Competition on Artificial Intelligence.
+
+## 2017
+- <span style="color:gray"><b><font size=4><u>JEE Advanced </u></font></b></span> <br/> 
+Obtain 554 AIR in JEE Advanced.
+
+- <span style="color:gray"><b><font size=4><u>KVPY 2017 Fellowship </u></font></b></span><br/> 
+Ranked in top-250 in the SX stream, KVPY 2017.
