@@ -11,8 +11,9 @@ Graphs </font></u></b></span> \
 Charu Sharma, **Jatin Chauhan** and Manohar Kaul \
 Conference: *International Joint Conference on Neural Networks **(IJCNN)** 2020 , Glasgow, UK* \
 [Paper](https://arxiv.org/pdf/2005.09752.pdf) | [Code](https://github.com/charusharma1991/LinkPred) | [Blog](https://medium.com/swlh/spectral-biased-random-walks-on-graphs-9fd771e384ae) 
-<hr size=1 />
+<hr width=5 />
 
+## 2019
 <span style="color:gray"><b><u><font size=4> Few-Shot Learning on Graphs via Super-Classes based on Graph Spectral Measures </font></u></b></span> \
 **Jatin Chauhan**, Deepak Nathani and Manohar Kaul \
 Conference: *International Conference on Learning Representations **(ICLR)** 2020, Addis
