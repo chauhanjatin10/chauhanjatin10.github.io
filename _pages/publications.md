@@ -20,7 +20,6 @@ Conference: *International Conference on Learning Representations **(ICLR)** 202
 Ababa, Ethiopia* \
 [Paper](https://www.openreview.net/forum?id=Bkeeca4Kvr) | [Code](https://github.com/chauhanjatin10/GraphsFewShot) | [Blog](https://medium.com/@cs17btech11019/few-shot-learning-on-graphs-f6312a9e9de5) 
 <hr size=1 />
-
 <span style="color:gray"><b><u><font size=4> Learning Attention-based Embeddings for Relation Prediction in
 Knowledge Graphs. </font></u></b></span> \
 Deepak Nathani\*, **Jatin Chauhan**\*, Charu Sharma* and Manohar Kaul \
