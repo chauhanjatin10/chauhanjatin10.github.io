@@ -23,8 +23,8 @@ Ababa, Ethiopia* \
 
 <span style="color:gray"><b><u><font size=4> Learning Attention-based Embeddings for Relation Prediction in
 Knowledge Graphs. </font></u></b></span> \
-Deepak Nathani*, **Jatin Chauhan***, Charu Sharma* and Manohar Kaul \
-(* denotes equal contribution)
+Deepak Nathani\*, **Jatin Chauhan**\*, Charu Sharma* and Manohar Kaul \
+(* denotes equal contribution) \
 Conference: *Association for Computational Linguistics **(ACL)** 2019, Florence, Italy* \
 [Paper](https://www.aclweb.org/anthology/P19-1466.pdf) | [Code](https://www.aclweb.org/anthology/P19-1466.pdf) | [Blog](https://deepakn97.github.io/blog/2019/Knowledge-Base-Relation-Prediction/) 
 <hr size=1 />
