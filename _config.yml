@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jatin Chauhan"
 title_separator          : "-"
 name                     : &name "Jatin Chauhan"
-description              : &description "Final year undergraduate student in the departmemt of Computer Sceince and Engineering at IIT Hyderabad"
+description              : &description "personal webpage"
 url                      : https://chauhanjatin10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chauhanjatin10/chauhanjatin10.github.io"
@@ -85,9 +85,9 @@ author:
   bio              : "Final year undergraduate student in CSE at IIT Hyderabad"
   location         : "Hyderabad, India"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "cs17btech11019@iith.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : ""
+  linkedin         : "jatin-chauhan-549937169"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : "chauhanjatin100"
   vine             :
   weibo            :
   xing             :
