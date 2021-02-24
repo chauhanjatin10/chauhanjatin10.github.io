@@ -5,9 +5,9 @@ permalink: /achievements/
 author_profile: true
 ---
 
-## 2021
+<!-- ## 2021
 - <span style="color:gray"><b><font size=4> <u> Selected for Google Pre-Doctoral Research Program </u></font></b></span> <br/> 
-Selected for the prestigious Google Pre-Doctoral Research program to work on research projects under the supervision of amazing mentors from Google AI Research in Bangalore.
+Selected for the prestigious Google Pre-Doctoral Research program to work on research projects under the supervision of amazing mentors from Google AI Research in Bangalore. -->
  
 
 ## 2020
