@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 # Conference Publications
-
 ## 2020
 <span style="color:gray"><b><u><font size=4> Learning Representations using Spectral-Biased Random Walks on
 Graphs </font></u></b></span> \
@@ -21,7 +20,8 @@ Conference: *International Joint Conference on Neural Networks **(IJCNN)** 2020 
 Conference: *International Conference on Learning Representations **(ICLR)** 2020, Addis
 Ababa, Ethiopia* \
 [Paper](https://www.openreview.net/forum?id=Bkeeca4Kvr) | [Code](https://github.com/chauhanjatin10/GraphsFewShot) | [Blog](https://medium.com/@cs17btech11019/few-shot-learning-on-graphs-f6312a9e9de5)
-<hr width=5 />
+
+<hr width=2/>
 
 ## 2019
 <span style="color:gray"><b><u><font size=4> Learning Attention-based Embeddings for Relation Prediction in
@@ -35,7 +35,6 @@ Conference: *Association for Computational Linguistics **(ACL)** 2019, Florence,
 
 
 # Preprints
-
 ## 2021
 <span style="color:gray"><b><u><font size=4> Target Model Agnostic Adversarial Attacks with Query Budgets on
 Language Understanding Models. </font></u></b></span> \
