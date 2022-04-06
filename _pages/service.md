@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <span style="color:gray"><b><font size=4> <u> Reviewer </u></font></b></span> <br/>
+- NeurIPS 2022
 - ICLR 2022
 - NeurIPS 2021
 
