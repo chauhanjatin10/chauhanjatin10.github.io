@@ -7,6 +7,12 @@ author_profile: true
 
 <!-- # Conference Publications -->
 
+<!-- ## 2022 -->
+<span style="color:gray"><b><u><font size=4> BERTops: Studying BERT Representations under a Topological Lens </font></u></b></span> \
+**Jatin Chauhan** and Manohar Kaul \
+**IJCNN 2022** ; [Paper](https://arxiv.org/abs/2205.00953) | [Code](https://github.com/chauhanjatin10/BERTops)
+
+<!-- ## 2021 -->
 <span style="color:gray"><b><u><font size=4> A Probabilistic Framework for Knowledge Graph Data Augmentation </font></u></b></span> \
 **Jatin Chauhan**\*, Priyanshu Gupta\* and Pasquale Minervini \
 **NeurIPS 2021 DCAI Workshop** ; [Paper](https://arxiv.org/pdf/2110.13205.pdf)
