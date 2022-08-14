@@ -8,6 +8,14 @@ author_profile: true
 <!-- # Conference Publications -->
 
 <!-- ## 2022 -->
+<span style="color:gray"><b><u><font size=4> Multi-Variate Time Series Forecasting on Variable Subsets </font></u></b></span> \
+**Jatin Chauhan**, Aravindan Raghuveer, Rishi Saket, Jay Nandy and Balaraman Ravindran \
+**KDD 2022** ; [Paper](https://arxiv.org/pdf/2206.12626.pdf) | [Code](https://github.com/google/vsf-time-series)
+
+<span style="color:gray"><b><u><font size=4> Domain-Agnostic Constrastive Representations for Learning from Label Proportions </font></u></b></span> \
+Jay Nandy, Rishi Saket, Prateek Jain, **Jatin Chauhan**, Balaraman Ravindran and Aravindan Raghuveer \
+**CIKM 2022** ; [Paper]() | [Code]()
+
 <span style="color:gray"><b><u><font size=4> BERTops: Studying BERT Representations under a Topological Lens </font></u></b></span> \
 **Jatin Chauhan** and Manohar Kaul \
 **IJCNN 2022** ; [Paper](https://arxiv.org/abs/2205.00953) | [Code](https://github.com/chauhanjatin10/BERTops)
