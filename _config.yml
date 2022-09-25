@@ -86,7 +86,7 @@ author:
   location         : "Los Angeles"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=bTn5uuQAAAAJ"
   email            : "chauhanjatin100@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
