@@ -14,7 +14,7 @@ author_profile: true
 
 <span style="color:gray"><b><u><font size=4> Domain-Agnostic Constrastive Representations for Learning from Label Proportions </font></u></b></span> \
 Jay Nandy, Rishi Saket, Prateek Jain, **Jatin Chauhan**, Balaraman Ravindran and Aravindan Raghuveer \
-**CIKM 2022** ; [Paper]() | [Code]()
+**CIKM 2022** ; [Paper](https://dl.acm.org/doi/10.1145/3511808.3557293) | [Code]()
 
 <span style="color:gray"><b><u><font size=4> BERTops: Studying BERT Representations under a Topological Lens </font></u></b></span> \
 **Jatin Chauhan** and Manohar Kaul \
