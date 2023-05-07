@@ -16,7 +16,8 @@ Previously, I worked as a researcher at Google AI in the RAiLS (Robust Algorithm
  -->
 <!-- My research interests broadly include *Optimization*, *OOD Generalization* and *Deep Learning Theory*. *Graph Representation Learning*, *Knowledge Graphs*, *Natural Language Processing*, *Topological Analysis of Neural Networks* and *Explainability and Interpretability of Deep Neural Networks*.
  -->
- ## Startups
+
+## Startups
 I am also broadly interested in the startup ecosystem, particularly from the investment viewpoint.<br />
 I work (and have worked in the past) with various startups, mainly at UCLA Anderson Business School, on providing them technical advise on the use of AI (machine learning) in their product. Some highlights [here](https://chauhanjatin10.github.io/startups/).
  
