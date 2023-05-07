@@ -2,6 +2,9 @@
 main:
   - title: "Research"
     url: /publications/
+    
+  - title: "Startups"
+    url: /startups/
 
   - title: "Achievements"
     url: /achievements/
