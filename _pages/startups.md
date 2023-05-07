@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Startups"
+title: "Startup Highlights"
 permalink: /startups/
 author_profile: true
 ---
