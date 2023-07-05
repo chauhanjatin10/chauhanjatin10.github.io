@@ -7,7 +7,10 @@ author_profile: true
 
 <!-- # Conference Publications -->
 
+Full list of papers at the **[Google Scholar](https://scholar.google.com/citations?user=bTn5uuQAAAAJ)** page
+
 <!-- ## 2022 -->
+
 <span style="color:gray"><b><u><font size=4> Multi-Variate Time Series Forecasting on Variable Subsets </font></u></b></span> \
 **Jatin Chauhan**, Aravindan Raghuveer, Rishi Saket, Jay Nandy and Balaraman Ravindran \
 **KDD 2022** ; [Paper](https://arxiv.org/pdf/2206.12626.pdf) | [Code](https://github.com/google/vsf-time-series)
