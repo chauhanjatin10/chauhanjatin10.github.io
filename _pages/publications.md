@@ -11,6 +11,18 @@ Full list of papers at the **[Google Scholar](https://scholar.google.com/citatio
 
 <!-- ## 2022 -->
 
+<span style="color:gray"><b><u><font size=4> Universality and Limitations of Prompt Tuning </font></u></b></span> \
+Yihan Wang, **Jatin Chauhan**, Wei Wang and Cho-Jui Hsieh \
+**NeurIPS 2023** ; [Paper](https://browse.arxiv.org/pdf/2305.18787.pdf) | [Code]()
+
+<span style="color:gray"><b><u><font size=4> Learning under Label Proportions for Text Classification </font></u></b></span> \
+**Jatin Chauhan**, Xiaoxuan Wang and Wei Wang \
+**EMNLP 2023 - Findings** ; [Paper]() | [Code]()
+
+<span style="color:gray"><b><u><font size=4> Non-Uniform Adversarial Perturbations for Discrete Tabular Datasets </font></u></b></span> \
+Jay Nandy, **Jatin Chauhan**, Rishi Saket and Aravindan Raghuveer \
+**CIKM 2023** ; [Paper]() | [Code]()
+
 <span style="color:gray"><b><u><font size=4> Multi-Variate Time Series Forecasting on Variable Subsets </font></u></b></span> \
 **Jatin Chauhan**, Aravindan Raghuveer, Rishi Saket, Jay Nandy and Balaraman Ravindran \
 **KDD 2022** ; [Paper](https://arxiv.org/pdf/2206.12626.pdf) | [Code](https://github.com/google/vsf-time-series)
@@ -60,8 +72,25 @@ Deepak Nathani\*, **Jatin Chauhan**\*, Charu Sharma* and Manohar Kaul \
 <!-- <hr size=5 /> -->
 
 
-# Preprints
+# Preprints and other Works
 <!-- ## 2021 -->
+
+<span style="color:gray"><b><u><font size=4> Fairness under Covariate Shift: Improving Fairness-Accuracy tradeoff with few Unlabeled Test Samples </font></u></b></span> \
+**Under Review**
+<!-- **Jatin Chauhan** \
+**Preprint** ; [Paper]() -->
+
+<span style="color:gray"><b><u><font size=4> Learning Over Molecular Conformer Ensembles: Datasets and Benchmarks </font></u></b></span> \
+**Under Review**
+<!-- **Jatin Chauhan** \
+**Preprint** ; [Paper]() -->
+
+<span style="color:gray"><b><u><font size=4> Beyond Traditional Text Classification: Generalized Zero-Shot Learning Approach
+for Long Documents </font></u></b></span> \
+**Under Review**
+<!-- **Jatin Chauhan** \
+**Preprint** ; [Paper]() -->
+
 
 <span style="color:gray"><b><u><font size=4> Target Model Agnostic Adversarial Attacks with Query Budgets on Language Understanding Models. </font></u></b></span> \
 **Jatin Chauhan**, Karan Bhukar and Manohar Kaul \
