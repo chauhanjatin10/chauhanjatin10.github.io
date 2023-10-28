@@ -84,11 +84,6 @@ Deepak Nathani\*, **Jatin Chauhan**\*, Charu Sharma* and Manohar Kaul \
 <!-- **Jatin Chauhan** \
 **Preprint** ; [Paper]() -->
 
-<span style="color:gray"><b><u><font size=4> Learning Over Molecular Conformer Ensembles: Datasets and Benchmarks </font></u></b></span> \
-**Under Review**
-<!-- **Jatin Chauhan** \
-**Preprint** ; [Paper]() -->
-
 <span style="color:gray"><b><u><font size=4> Beyond Traditional Text Classification: Generalized Zero-Shot Learning Approach
 for Long Documents </font></u></b></span> \
 **Under Review**
