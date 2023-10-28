@@ -15,6 +15,10 @@ Full list of papers at the **[Google Scholar](https://scholar.google.com/citatio
 Yihan Wang, **Jatin Chauhan**, Wei Wang and Cho-Jui Hsieh \
 **NeurIPS 2023** ; [Paper](https://browse.arxiv.org/pdf/2305.18787.pdf) | [Code]()
 
+<span style="color:gray"><b><u><font size=4> Learning Over Molecular Conformer Ensembles: Datasets and Benchmarks </font></u></b></span> \
+Yanqiao Zhu, Jeehyun Hwang, Keir Adams, Zhen Liu, Bozhao Nan, Brock Stenfors, Yuanqi Du, **Jatin Chauhan**, Olaf Wiest, Olexandr Isayev, Connor Coley, Yizhou Sun and Wei Wang \
+**NeurIPS 2023 AI4Science Workshop** ; [Paper](https://openreview.net/forum?id=kFiMXnLH9x) | [Code](https://github.com/SXKDZ/MARCEL)
+
 <span style="color:gray"><b><u><font size=4> Learning under Label Proportions for Text Classification </font></u></b></span> \
 **Jatin Chauhan**, Xiaoxuan Wang and Wei Wang \
 **EMNLP 2023 - Findings** ; [Paper]() | [Code]()
