@@ -16,7 +16,7 @@ Yihan Wang, **Jatin Chauhan**, Wei Wang and Cho-Jui Hsieh \
 **NeurIPS 2023** ; [Paper](https://browse.arxiv.org/pdf/2305.18787.pdf) | [Code]()
 
 <span style="color:gray"><b><u><font size=4> Improving Fairness-Accuracy tradeoff with few Test Samples under Covariate Shift </font></u></b></span> \
-Shreyas Havaldar*, **Jatin Chauhan**\*, Karthikeyan Shanmugam\*, Jay Nandy and Aravindan Raghuveer \
+Shreyas Havaldar\*, **Jatin Chauhan**\*, Karthikeyan Shanmugam\*, Jay Nandy and Aravindan Raghuveer \
 (* denotes equal contribution) \
 **NeurIPS 2023 AFT Workshop** ; [Paper](https://arxiv.org/pdf/2310.07535.pdf) | [Code]()
 
@@ -73,7 +73,7 @@ Charu Sharma, **Jatin Chauhan** and Manohar Kaul \
 <!-- ## 2019 -->
 <span style="color:gray"><b><u><font size=4> Learning Attention-based Embeddings for Relation Prediction in
 Knowledge Graphs. </font></u></b></span> \
-Deepak Nathani\*, **Jatin Chauhan**\*, Charu Sharma* and Manohar Kaul \
+Deepak Nathani\*, **Jatin Chauhan**\*, Charu Sharma\* and Manohar Kaul \
 (* denotes equal contribution) \
 **(ACL 2019)** ; [Paper](https://www.aclweb.org/anthology/P19-1466.pdf) | [Code](https://www.aclweb.org/anthology/P19-1466.pdf) | [Blog](https://deepakn97.github.io/blog/2019/Knowledge-Base-Relation-Prediction/)
 <!-- Conference: *Association for Computational Linguistics **(ACL)** 2019, Florence, Italy* \ -->
