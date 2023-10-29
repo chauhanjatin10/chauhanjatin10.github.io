@@ -15,6 +15,11 @@ Full list of papers at the **[Google Scholar](https://scholar.google.com/citatio
 Yihan Wang, **Jatin Chauhan**, Wei Wang and Cho-Jui Hsieh \
 **NeurIPS 2023** ; [Paper](https://browse.arxiv.org/pdf/2305.18787.pdf) | [Code]()
 
+<span style="color:gray"><b><u><font size=4> Improving Fairness-Accuracy tradeoff with few Test Samples under Covariate Shift </font></u></b></span> \
+Shreyas Havaldar*, **Jatin Chauhan**\*, Karthikeyan Shanmugam\*, Jay Nandy and Aravindan Raghuveer \
+(* denotes equal contribution) \
+**NeurIPS 2023 AFT Workshop** ; [Paper](https://arxiv.org/pdf/2310.07535.pdf) | [Code]()
+
 <span style="color:gray"><b><u><font size=4> Learning Over Molecular Conformer Ensembles: Datasets and Benchmarks </font></u></b></span> \
 Yanqiao Zhu, Jeehyun Hwang, Keir Adams, Zhen Liu, Bozhao Nan, Brock Stenfors, Yuanqi Du, **Jatin Chauhan**, Olaf Wiest, Olexandr Isayev, Connor Coley, Yizhou Sun and Wei Wang \
 **NeurIPS 2023 AI4Science Workshop** ; [Paper](https://openreview.net/forum?id=kFiMXnLH9x) | [Code](https://github.com/SXKDZ/MARCEL)
@@ -42,6 +47,7 @@ Jay Nandy, Rishi Saket, Prateek Jain, **Jatin Chauhan**, Balaraman Ravindran and
 <!-- ## 2021 -->
 <span style="color:gray"><b><u><font size=4> A Probabilistic Framework for Knowledge Graph Data Augmentation </font></u></b></span> \
 **Jatin Chauhan**\*, Priyanshu Gupta\* and Pasquale Minervini \
+(* denotes equal contribution) \
 **NeurIPS 2021 DCAI Workshop** ; [Paper](https://arxiv.org/pdf/2110.13205.pdf)
 
 
@@ -77,12 +83,6 @@ Deepak Nathani\*, **Jatin Chauhan**\*, Charu Sharma* and Manohar Kaul \
 
 
 # Preprints and other Works
-<!-- ## 2021 -->
-
-<span style="color:gray"><b><u><font size=4> Fairness under Covariate Shift: Improving Fairness-Accuracy tradeoff with few Unlabeled Test Samples </font></u></b></span> \
-**Under Review**
-<!-- **Jatin Chauhan** \
-**Preprint** ; [Paper]() -->
 
 <span style="color:gray"><b><u><font size=4> Beyond Traditional Text Classification: Generalized Zero-Shot Learning Approach
 for Long Documents </font></u></b></span> \
