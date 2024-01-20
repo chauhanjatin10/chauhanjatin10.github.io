@@ -7,22 +7,21 @@ author_profile: true
 
 <!-- # Conference Publications -->
 
-Full list of papers at the **[Google Scholar](https://scholar.google.com/citations?user=bTn5uuQAAAAJ)** page
+**[Google Scholar](https://scholar.google.com/citations?user=bTn5uuQAAAAJ)** page
 
-<!-- ## 2022 -->
+
+<span style="color:gray"><b><u><font size=4> Fairness under Covariate Shift: Improving Fairness-Accuracy tradeoff with few Unlabeled Test Samples </font></u></b></span> \
+Shreyas Havaldar\*, **Jatin Chauhan**\*, Karthikeyan Shanmugam\*, Jay Nandy and Aravindan Raghuveer \
+(* denotes equal contribution) \
+**AAAI 2024** (Also at NeurIPS 2023 AFT Workshop) ; [Paper](https://arxiv.org/pdf/2310.07535.pdf) | [Code]()
+
+<span style="color:gray"><b><u><font size=4> Learning Over Molecular Conformer Ensembles: Datasets and Benchmarks </font></u></b></span> \
+Yanqiao Zhu, Jeehyun Hwang, Keir Adams, Zhen Liu, Bozhao Nan, Brock Stenfors, Yuanqi Du, **Jatin Chauhan**, Olaf Wiest, Olexandr Isayev, Connor Coley, Yizhou Sun and Wei Wang \
+**ICLR 2024** (Also at NeurIPS 2023 AI4Science Workshop) ; [Paper](https://sxkdz.github.io/files/publications/ICLR/MARCEL/MARCEL.pdf) | [Code](https://github.com/SXKDZ/MARCEL)
 
 <span style="color:gray"><b><u><font size=4> Universality and Limitations of Prompt Tuning </font></u></b></span> \
 Yihan Wang, **Jatin Chauhan**, Wei Wang and Cho-Jui Hsieh \
 **NeurIPS 2023** ; [Paper](https://browse.arxiv.org/pdf/2305.18787.pdf) | [Code]()
-
-<span style="color:gray"><b><u><font size=4> Improving Fairness-Accuracy tradeoff with few Test Samples under Covariate Shift </font></u></b></span> \
-Shreyas Havaldar\*, **Jatin Chauhan**\*, Karthikeyan Shanmugam\*, Jay Nandy and Aravindan Raghuveer \
-(* denotes equal contribution) \
-**NeurIPS 2023 AFT Workshop** ; [Paper](https://arxiv.org/pdf/2310.07535.pdf) | [Code]()
-
-<span style="color:gray"><b><u><font size=4> Learning Over Molecular Conformer Ensembles: Datasets and Benchmarks </font></u></b></span> \
-Yanqiao Zhu, Jeehyun Hwang, Keir Adams, Zhen Liu, Bozhao Nan, Brock Stenfors, Yuanqi Du, **Jatin Chauhan**, Olaf Wiest, Olexandr Isayev, Connor Coley, Yizhou Sun and Wei Wang \
-**NeurIPS 2023 AI4Science Workshop** ; [Paper](https://openreview.net/forum?id=kFiMXnLH9x) | [Code](https://github.com/SXKDZ/MARCEL)
 
 <span style="color:gray"><b><u><font size=4> Learning under Label Proportions for Text Classification </font></u></b></span> \
 **Jatin Chauhan**, Xiaoxuan Wang and Wei Wang \
