@@ -13,7 +13,7 @@ author_profile: true
 <span style="color:gray"><b><u><font size=4> Fairness under Covariate Shift: Improving Fairness-Accuracy tradeoff with few Unlabeled Test Samples </font></u></b></span> \
 Shreyas Havaldar\*, **Jatin Chauhan**\*, Karthikeyan Shanmugam\*, Jay Nandy and Aravindan Raghuveer \
 (* denotes equal contribution) \
-**AAAI 2024** (Also at NeurIPS 2023 AFT Workshop) ; [Paper](https://arxiv.org/pdf/2310.07535.pdf) | [Code]()
+**AAAI 2024** (Also at NeurIPS 2023 AFT Workshop) ; [Paper](https://arxiv.org/pdf/2310.07535.pdf) | [Code](https://github.com/google/uafcs)
 
 <span style="color:gray"><b><u><font size=4> Learning Over Molecular Conformer Ensembles: Datasets and Benchmarks </font></u></b></span> \
 Yanqiao Zhu, Jeehyun Hwang, Keir Adams, Zhen Liu, Bozhao Nan, Brock Stenfors, Yuanqi Du, **Jatin Chauhan**, Olaf Wiest, Olexandr Isayev, Connor Coley, Yizhou Sun and Wei Wang \
