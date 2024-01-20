@@ -25,11 +25,11 @@ Yihan Wang, **Jatin Chauhan**, Wei Wang and Cho-Jui Hsieh \
 
 <span style="color:gray"><b><u><font size=4> Learning under Label Proportions for Text Classification </font></u></b></span> \
 **Jatin Chauhan**, Xiaoxuan Wang and Wei Wang \
-**EMNLP 2023 - Findings** ; [Paper]() | [Code]()
+**EMNLP 2023 - Findings** ; [Paper](https://aclanthology.org/2023.findings-emnlp.817.pdf) | [Code](https://drive.google.com/file/d/1c51MewWoEV0nuotQlPgh6uLt-iJ9kA16/view?usp=drive_link)
 
 <span style="color:gray"><b><u><font size=4> Non-Uniform Adversarial Perturbations for Discrete Tabular Datasets </font></u></b></span> \
 Jay Nandy, **Jatin Chauhan**, Rishi Saket and Aravindan Raghuveer \
-**CIKM 2023** ; [Paper]() | [Code]()
+**CIKM 2023** ; [Paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614992) | [Code]()
 
 <span style="color:gray"><b><u><font size=4> Multi-Variate Time Series Forecasting on Variable Subsets </font></u></b></span> \
 **Jatin Chauhan**, Aravindan Raghuveer, Rishi Saket, Jay Nandy and Balaraman Ravindran \
@@ -49,8 +49,6 @@ Jay Nandy, Rishi Saket, Prateek Jain, **Jatin Chauhan**, Balaraman Ravindran and
 (* denotes equal contribution) \
 **NeurIPS 2021 DCAI Workshop** ; [Paper](https://arxiv.org/pdf/2110.13205.pdf)
 
-
-
 <!-- ## 2020 -->
 <span style="color:gray"><b><u><font size=4> Learning Representations using Spectral-Biased Random Walks on
 Graphs </font></u></b></span> \
@@ -65,9 +63,6 @@ Charu Sharma, **Jatin Chauhan** and Manohar Kaul \
 **Jatin Chauhan**, Deepak Nathani and Manohar Kaul \
 **ICLR 2020** ; [Paper](https://www.openreview.net/forum?id=Bkeeca4Kvr) | [Code](https://github.com/chauhanjatin10/GraphsFewShot) | [Blog](https://medium.com/@cs17btech11019/few-shot-learning-on-graphs-f6312a9e9de5)
 <!-- Conference: *International Conference on Learning Representations **(ICLR)** 2020, Addis Ababa, Ethiopia* \ -->
-
-
-<!-- <hr width=1/> -->
 
 <!-- ## 2019 -->
 <span style="color:gray"><b><u><font size=4> Learning Attention-based Embeddings for Relation Prediction in
