@@ -6,11 +6,11 @@ main:
   - title: "Startups"
     url: /startups/
 
-  - title: "Achievements"
-    url: /achievements/
+  # - title: "Achievements"
+  #   url: /achievements/
 
-  - title: "Service"
-    url: /service/
+  # - title: "Service"
+  #   url: /service/
 
   #- title: "Talks"
   #  url: /talks/    
