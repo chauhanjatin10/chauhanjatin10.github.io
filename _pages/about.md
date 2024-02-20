@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 <!-- ## Academic -->
-Hi! I am a Computer Science PhD student at UCLA working with Prof [Wei Wang](http://web.cs.ucla.edu/~weiwang/).
-Previously, I worked as a researcher at Google AI in the RAiLS (Robust Algorithms for Learning In Sparse Data Settings) team. My research interests broadly include Deep Learning Theory and applications of Machine Learning to Finance. <!---, OOD Generalization and Optimization.  with primary works in spatio-temporal modelling, distribution shifts, fairness and learning from labelled proportions. -->
+Hi! I am a Masters student in Computer Science (specialization in AI) department at UCLA (To pursue my goals, I decided to quit my PhD at UCLA CS. During that time, I worked with Prof [Wei Wang](http://web.cs.ucla.edu/~weiwang/).
+
+Previously, I worked as a researcher at Google AI in the RAiLS (Robust Algorithms for Learning In Sparse Data Settings) team. 
+
+My interests broadly span Machine Learning and AI for Finance. <!---, OOD Generalization and Optimization.  with primary works in spatio-temporal modelling, distribution shifts, fairness and learning from labelled proportions. -->
 
 <!-- Before that, I finished my undergraduate in Computer Science and Engineering at [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) where I worked under the supervision of [Dr. Manohar Kaul](https://www.iith.ac.in/~mkaul/).
  -->
