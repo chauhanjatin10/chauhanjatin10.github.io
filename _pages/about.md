@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ## Academic -->
-Hi! I am a Masters student in Computer Science (specialization in AI) department at UCLA (To pursue my goals, I decided to quit my PhD at UCLA CS. During that time, I worked with Prof [Wei Wang](http://web.cs.ucla.edu/~weiwang/).
+Hi! I am a Masters student in Computer Science (specialization in AI) at UCLA (To pursue my goals, I decided to quit my PhD at UCLA CS. During that time, I worked with Prof [Wei Wang](http://web.cs.ucla.edu/~weiwang/))
 
 Previously, I worked as a researcher at Google AI in the RAiLS (Robust Algorithms for Learning In Sparse Data Settings) team. 
 
