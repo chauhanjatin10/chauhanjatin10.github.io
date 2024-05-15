@@ -13,7 +13,7 @@ Hi! I am a Masters student in Computer Science (specialization in AI) at UCLA (T
 
 Previously, I worked as a researcher at Google AI in the RAiLS (Robust Algorithms for Learning In Sparse Data Settings) team. 
 
-My interests broadly span Machine Learning and AI for Finance. <!---, OOD Generalization and Optimization.  with primary works in spatio-temporal modelling, distribution shifts, fairness and learning from labelled proportions. -->
+My interests span multiple areas of Machine Learning including - LLMs (empirical and theoretical research), distribution shifts, privacy as well as ML applications for Finance. <!---, OOD Generalization and Optimization.  with primary works in spatio-temporal modelling, distribution shifts, fairness and learning from labelled proportions. -->
 
 <!-- Before that, I finished my undergraduate in Computer Science and Engineering at [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) where I worked under the supervision of [Dr. Manohar Kaul](https://www.iith.ac.in/~mkaul/).
  -->
