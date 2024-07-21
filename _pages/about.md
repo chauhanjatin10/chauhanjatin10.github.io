@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 <!-- ## Academic -->
-Hi! I am a Masters student in Computer Science (specialization in AI) at UCLA (To pursue my goals, I decided to quit my PhD at UCLA CS. During that time, I worked with Prof [Wei Wang](http://web.cs.ucla.edu/~weiwang/))
+Hi! I am currently a Research Scientist at [Triomics](https://www.triomics.com/).
 
-Previously, I worked as a researcher at Google AI in the RAiLS (Robust Algorithms for Learning In Sparse Data Settings) team. 
+I obtained my Masters in Computer Science (specialization in AI) from UCLA (I originally started as a PhD student at UCLA CS, but decided to quit in order to pursue my goals. During that time, I worked with Prof [Wei Wang](http://web.cs.ucla.edu/~weiwang/)).
+Before that, I worked as a researcher at Google AI in the RAiLS (Robust Algorithms for Learning In Sparse Data Settings) team. 
 
 My interests span multiple areas of Machine Learning including - LLMs (empirical and theoretical research), distribution shifts, privacy as well as ML applications for Finance. <!---, OOD Generalization and Optimization.  with primary works in spatio-temporal modelling, distribution shifts, fairness and learning from labelled proportions. -->
 
