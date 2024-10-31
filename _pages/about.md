@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 <!-- ## Academic -->
-Hi! I am currently a Research Scientist at [Triomics](https://www.triomics.com/).
+Hi! I am currently a Research Scientist at [Triomics](https://www.triomics.com/) with the focus on ML for healthcare. My work till now has ben centered around developing LLMs over both structured and unstructured data. A good fraction of my time also goes in deployment of these models along with research oriented tasks.
 
-I obtained my Masters in Computer Science (specialization in AI) from UCLA (I originally started as a PhD student at UCLA CS, but decided to quit in order to pursue my goals. During that time, I worked with Prof [Wei Wang](http://web.cs.ucla.edu/~weiwang/)).
+I obtained my Masters in Computer Science from UCLA (I originally started as a PhD student at UCLA CS, but decided to quit in order to pursue my goals. During that time, I worked with Prof [Wei Wang](http://web.cs.ucla.edu/~weiwang/)).
 Before that, I worked as a researcher at Google AI in the RAiLS (Robust Algorithms for Learning In Sparse Data Settings) team. 
 
-My interests span multiple areas of Machine Learning including - LLMs (empirical and theoretical research), distribution shifts, privacy as well as ML applications for Finance. <!---, OOD Generalization and Optimization.  with primary works in spatio-temporal modelling, distribution shifts, fairness and learning from labelled proportions. -->
+My interests span multiple areas of Machine Learning including - LLMs (empirical and theoretical research), as well as ML applications for Healthcare and Finance. <!---, OOD Generalization and Optimization.  with primary works in spatio-temporal modelling, distribution shifts, fairness and learning from labelled proportions. -->
 
 <!-- Before that, I finished my undergraduate in Computer Science and Engineering at [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) where I worked under the supervision of [Dr. Manohar Kaul](https://www.iith.ac.in/~mkaul/).
  -->
