@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ## Academic -->
-Hi! I am currently a Research Scientist at [Triomics](https://www.triomics.com/) with the focus on ML for healthcare. My work till now has ben centered around developing LLMs over both structured and unstructured data. A good fraction of my time also goes in deployment of these models along with research oriented tasks.
+Hi! I am currently a Research Scientist at [Triomics](https://www.triomics.com/) with the focus on ML for healthcare. My work till now has been centered around developing LLMs over both structured and unstructured data. A good fraction of my time also goes in deployment of these models along with research oriented tasks.
 
 I obtained my Masters in Computer Science from UCLA (I originally started as a PhD student at UCLA CS, but decided to quit in order to pursue my goals. During that time, I worked with Prof [Wei Wang](http://web.cs.ucla.edu/~weiwang/)).
 Before that, I worked as a researcher at Google AI in the RAiLS (Robust Algorithms for Learning In Sparse Data Settings) team. 
