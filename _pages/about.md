@@ -10,9 +10,9 @@ redirect_from:
 
 <!-- ## Academic -->
 
-Hi! I am currently a Senior Researcher at Fujitsu Research focusing on World Models and Privacy focused (learning) algorithms, along with adaptive optimization.
+Hi! I am a Senior Researcher at Fujitsu Research focused on Robotics and Theoretical work on Memory, OOD in RL and Long-Horizon task enhancements.
 
-Before this, I was a Data Scientist in the [Microsoft PROSE team](https://www.microsoft.com/en-us/research/group/prose/), primarily focused on incorporating smart features in the office suite and broader copilot ecosystem. Before Microsoft, I was a Research Scientist at [Triomics](https://www.triomics.com/) with focus on ML for healthcare. My work was centered around developing LLMs over both structured and unstructured data. A good fraction of my time also went into deployment of these models along with research oriented tasks.
+Before this, I worked with the [Microsoft PROSE team](https://www.microsoft.com/en-us/research/group/prose/), primarily focused on incorporating smart features in the office suite and broader copilot ecosystem. Before Microsoft, I was a Research Scientist at [Triomics](https://www.triomics.com/) with focus on ML for healthcare. My work was centered around developing LLMs over both structured and unstructured data. A good fraction of my time also went into deployment of these models along with research oriented tasks.
 
 I obtained my Masters in Computer Science from UCLA (I originally started as a PhD student at UCLA CS, but decided to quit in order to pursue my goals. During my PhD time I worked with Prof [Wei Wang](http://web.cs.ucla.edu/~weiwang/)).
 Before that, I worked as a researcher at Google AI in the RAiLS (Robust Algorithms for Learning In Sparse Data Settings) team. 
